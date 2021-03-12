@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06c07123-b78a-4ab8-ad7e-5cb1fbeb7a60" name="Default Changelist" comment="updated" />
+    <list default="true" id="06c07123-b78a-4ab8-ad7e-5cb1fbeb7a60" name="Default Changelist" comment="updated">
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/SumSeconds.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615555104882</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated">
+      <created>1615555395832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615555395832</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,10 +139,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1615547199324" />
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1615555105913">
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1615555397278">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1615555105913" />
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1615555397278" />
     <state x="511" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615547132379">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
