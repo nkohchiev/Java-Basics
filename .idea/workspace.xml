@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06c07123-b78a-4ab8-ad7e-5cb1fbeb7a60" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/ExamPreparation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/OldBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop/Walking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/EqualSumsEvenOddPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/SumPrimeNonPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/TrainTheTrainers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615556670582</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updated">
+      <created>1615557048687</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1615557048687</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,10 +177,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1615547199324" />
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1615556671551">
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1615557049821">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1615556671551" />
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1615557049821" />
     <state x="511" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615547132379">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
