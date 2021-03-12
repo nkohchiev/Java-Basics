@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06c07123-b78a-4ab8-ad7e-5cb1fbeb7a60" name="Default Changelist" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/BonusScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/GodzillavsKong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/MetricConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/SpeedInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConditionalStatements/TimeIn15Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/NewHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/SummerOutfit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615555509605</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated">
+      <created>1615555945134</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1615555945134</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -150,10 +155,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1615547199324" />
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1615555511017">
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2" timestamp="1615555946398">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1615555511017" />
+    <state x="320" y="188" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1615555946398" />
     <state x="511" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1615547132379">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
